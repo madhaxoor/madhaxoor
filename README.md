@@ -1,32 +1,32 @@
 > _“The sun will rise tomorrow — it always does. So keep building, keep dreaming.”_
 
-# 👋 Hey, I'm Arpan Verma — Creating Code, Crafting Experiences⚡  
+# Hey, I'm Arpan Verma — Creating Code, Crafting Experiences  
 Welcome to my GitHub — the digital arena where I innovate, build brands, and turn ideas into impact 🚀
 
 I'm a multi-dimensional **Software Engineer**, **Full-Stack Web Developer**, and **Creative Designer** — obsessed with building intelligent solutions, powerful user experiences, and visually striking products. Whether it's engineering robust backends, designing beautiful frontends, launching startup ideas, or leading communities — I do it all with precision, passion, and purpose.
 
 ---
 
-## 🧩 About Me
-- 🎓 Final Year B.Tech IT Student  
-- 🛠️ Diploma in Mechanical Engineering – JLN Polytechnic, Mahmoodabad  
-- 💻 Passionate Software Engineer & Full-Stack Web Developer  
-- 💡 Founder – **TechNest** (Internship & Learning Platform)  
-- 🎨 Co-founder – **Edit Ninja** (Creative Design Hub)  
-- 🎬 Creator – **Aster Movies**, a unique personal movie theater concept  
-- 🚀 Core Team Member – **Galouti Nawabs**, EDC IIT Bombay  
-- 🧠 Strong in DSA, Web Dev, Project Management, and Design Thinking  
+##  About Me
+-  Final Year B.Tech IT Student  
+-  Diploma in Mechanical Engineering – JLN Polytechnic, Mahmoodabad  
+-  Passionate Software Engineer & Full-Stack Web Developer  
+-  Founder – **TechNest** (Internship & Learning Platform)  
+-  Co-founder – **Edit Ninja** (Creative Design Hub)  
+-  Creator – **Aster Movies**, a unique personal movie theater concept  
+-  Core Team Member – **Galouti Nawabs**, EDC IIT Bombay  
+-  Strong in DSA, Web Dev, Project Management, and Design Thinking  
 
 ---
 
-## ✨ Highlights & Achievements
-- 🌐 Portfolio Website: [arpxxnportfolio.netlify.app](https://arpxxnportfolio.netlify.app)  
-- 🔧 Built **JobFinder India** – Full-stack job portal (Java, Flask, SQL)    
-- 📊 Developed **Women Safety Analytics Dashboard** with real-time email alert system  
-- 🧠 Created a modular **Smart Job Portal** – clean backend/frontend structure  
-- 🥈 **2nd Place** in **Coders War 3.0** – Fast-paced competitive programming challenge  
-- 📄 Built a clean, professional, **ATS-optimized Resume**  
-- 🖥️ Customized a premium **Full-Stack Portfolio Template** (React + Tailwind)  
+##  Highlights & Achievements
+-  Portfolio Website: [arpxxnportfolio.netlify.app](https://arpxxnportfolio.netlify.app)  
+-  Built **JobFinder India** – Full-stack job portal (Java, Flask, SQL)    
+-  Developed **Women Safety Analytics Dashboard** with real-time email alert system  
+-  Created a modular **Smart Job Portal** – clean backend/frontend structure  
+   **2nd Place** in **Coders War 3.0** – Fast-paced competitive programming challenge  
+-  Built a clean, professional, **ATS-optimized Resume**  
+-  Customized a premium **Full-Stack Portfolio Template** (React + Tailwind)  
 
 ---
 
