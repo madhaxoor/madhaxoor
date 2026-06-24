@@ -1,89 +1,273 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <!-- Replace with a link to your monochrome banner image -->
-  <img src="https://your-banner-url-here.png" alt="Arpan Verma" width="100%">
-</p>
+<div align="center">
 
-<!-- MINIMALIST SHIELDS / STATS -->
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=050505&labelColor=16161a&logo=github" alt="Stars">
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=050505&labelColor=16161a" alt="Followers">
-  </a>
-</p>
+<img src="./assets/banner.png" width="100%" />
 
----
+# ARPAN_!!
 
-<!-- KNOW ABOUT ME SECTION -->
-<h3 align="center">Know About Me</h3>
+### `DEVELOPER • CODER • LEARNER`
 
-<p align="left">
-  <!-- Left-aligned dark aesthetic asset (like the brain gif/image in the reference) -->
-  <img src="https://your-dark-asset-url.gif" align="left" width="180" style="padding-right: 20px; padding-bottom: 20px;">
-  
-  <strong>Hey there! I'm Arpan</strong> <br><br>
-  I'm an Information Technology major and Software Development Engineer Intern with an unhealthy obsession with optimized backends and minimalist dark themes. By day, I architect AI-driven systems and fine-tune APIs to run seamlessly. By night, I break down complex full-stack workflows using Java, Node.js, and React. 
-  <br><br>
-  When I'm not pushing commits or hunting down latency issues, I’m usually experimenting with visual branding, playing with typography, or staring at a codebase wondering how it actually works.
-</p>
+> Building code today so future me complains less.
 
-<br clear="both">
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=000000" />
+
+</div>
 
 ---
 
-<!-- TOP PROJECTS SECTION -->
-### 📌 Top Projects (built to avoid manual labor)
+<table>
+<tr>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <ul>
-        <li>
-          <strong><code>HIRELENS</code></strong> — AI-Assisted Interview Management System featuring real-time evaluation pipelines and automated scoring architectures.
-        </li>
-        <br>
-        <li>
-          <strong><code>NEARBYNOW</code></strong> — A highly responsive, location-based search application optimized for real-time spatial queries.
-        </li>
-      </ul>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- Right side dark accent image (like the fire icon in the reference) -->
-      <img src="https://your-right-side-accent-asset.png" width="100">
-    </td>
-  </tr>
+<td width="35%">
+
+## // Identity
+
+```txt
+Name      : Arpan Verma
+Role      : Software Developer
+Status    : B.Tech Graduate
+Focus     : Backend + Full Stack + AI
+Location  : India
+```
+
+<br>
+
+> Branch out. Build greatness.
+
+<br>
+
+## // Current Mission
+
+- Solving DSA daily
+- Building production-level backend projects
+- Learning system design
+- Exploring AI agents + LLM apps
+- Preparing for top product companies
+
+</td>
+
+<td width="65%">
+
+<img src="./assets/profile.gif" width="100%" />
+
+</td>
+
+</tr>
 </table>
 
 ---
 
-<!-- CONNECT SECTION -->
-<h3 align="center">Connect</h3>
+# // Know About Me
 
-<p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:officialarpan@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+```cpp
+while(alive)
+{
+   eat();
+   code();
+   debug();
+   learn();
+   repeat();
+}
+```
 
-<blockquote>
-<p> 💡 <i>Code is never finished. It only becomes slightly less terrible over time.</i></p>
-<p> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard. </p>
-</blockquote>
+Hey, I’m **Arpan**.
+
+I’m a developer obsessed with building things that solve actual problems.
+
+Currently focused on writing scalable backend systems, full stack applications, and learning how modern software architecture works.
+
+I like understanding how things work under the hood instead of just making them work.
+
+Right now I spend most of my time building projects, solving DSA, learning cloud systems, and preparing for software engineering roles.
 
 ---
 
-<!-- CONTRIBUTION GRAPH -->
-<h3 align="center">Contribution</h3>
+# // Tech Arsenal
 
-<p align="center">
-  <!-- Replace with your actual GitHub username to pull your dark mode contribution chart -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark-v2&area=true&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph">
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+
+</div>
+
+---
+
+# // Top Projects (built with pain and caffeine)
+
+## 1. E-Commerce Backend Engine
+
+```txt
+Built scalable backend APIs for product management,
+authentication, cart system, order management
+using Spring Boot + MySQL.
+```
+
+Tech Stack:
+
+`Java` `Spring Boot` `JWT` `MySQL`
+
+---
+
+## 2. AI Resume Analyzer
+
+```txt
+Analyzes resume quality,
+extracts skills,
+gives improvement suggestions.
+```
+
+Tech Stack:
+
+`Python` `LLM API` `FastAPI`
+
+---
+
+## 3. Real Time Chat Application
+
+```txt
+Built real time messaging system
+using websocket architecture.
+```
+
+Tech Stack:
+
+`Node.js` `Socket.io` `MongoDB`
+
+---
+
+## 4. URL Shortener API
+
+```txt
+Converts long URLs into short identifiers
+with analytics support.
+```
+
+Tech Stack:
+
+`Java` `Spring Boot` `Redis`
+
+---
+
+## 5. Expense Tracker
+
+```txt
+Tracks income, expenses,
+monthly spending analytics.
+```
+
+Tech Stack:
+
+`React` `Node.js` `MongoDB`
+
+---
+
+# // GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+# // Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+# // Current Learning Path
+
+```txt
+[✓] Data Structures & Algorithms
+
+[✓] Backend Development
+
+[✓] Database Design
+
+[✓] REST API Development
+
+[ ] System Design
+
+[ ] Docker & Kubernetes
+
+[ ] Microservices Architecture
+
+[ ] AWS Cloud
+
+[ ] Low Level Design
+```
+
+---
+
+# // Connect
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge&logo=readthedocs" />
+</a>
+
+</div>
+
+---
+
+# // Philosophy
+
+> Code is never finished.  
+> It only becomes slightly less terrible over time.
+
+<br>
+
+> Every bug teaches something.  
+> Usually humility.
+
+<br>
+
+> Build projects.  
+> Degrees open doors. Skills keep them open.
+
+---
+
+<div align="center">
+
+### Building quietly until success gets loud.
+
+</div>
