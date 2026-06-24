@@ -1,234 +1,89 @@
-<div align="center">
-
-# MADHAXOOR
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;Backend+Focused+Builder;Building+Systems+That+Matter" />
-
-### Software Engineer | Full Stack Developer | Backend Systems Enthusiast
-
-> *"The sun will rise tomorrow. So keep building."*
-
-</div>
-
----
-
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-## About Me
-
-```yaml
-Name: Arpan Verma
-Username: madhaxoor
-Location: India
-Role: Software Engineer
-Education: B.Tech Information Technology
-Focus: Backend Engineering + Scalable Systems
-Currently Learning: System Design + Cloud + AI Engineering
-Open To: Software Engineering Opportunities
-````
-
-I build scalable applications focused on performance, backend architecture, API development, and solving real-world engineering problems.
-
-Strong foundation in software engineering principles, clean architecture, and modern full-stack development.
-
----
-
-## Tech Arsenal
-
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,js,python,c,ts" />
+<!-- HEADER BANNER -->
+<p align="center">
+  <!-- Replace with a link to your monochrome banner image -->
+  <img src="https://your-banner-url-here.png" alt="Arpan Verma" width="100%">
 </p>
 
-### Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools & Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+<!-- MINIMALIST SHIELDS / STATS -->
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=050505&labelColor=16161a&logo=github" alt="Stars">
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=050505&labelColor=16161a" alt="Followers">
+  </a>
 </p>
 
 ---
 
-## Engineering Focus
+<!-- KNOW ABOUT ME SECTION -->
+<h3 align="center">Know About Me</h3>
 
-```text
-Backend Development
-REST API Architecture
-Authentication Systems
-Database Optimization
-Scalable Application Design
-Object Oriented Programming
-System Design Fundamentals
-Performance Optimization
-Clean Code Architecture
-AI Integrated Applications
-```
+<p align="left">
+  <!-- Left-aligned dark aesthetic asset (like the brain gif/image in the reference) -->
+  <img src="https://your-dark-asset-url.gif" align="left" width="180" style="padding-right: 20px; padding-bottom: 20px;">
+  
+  <strong>Hey there! I'm Arpan</strong> <br><br>
+  I'm an Information Technology major and Software Development Engineer Intern with an unhealthy obsession with optimized backends and minimalist dark themes. By day, I architect AI-driven systems and fine-tune APIs to run seamlessly. By night, I break down complex full-stack workflows using Java, Node.js, and React. 
+  <br><br>
+  When I'm not pushing commits or hunting down latency issues, I’m usually experimenting with visual branding, playing with typography, or staring at a codebase wondering how it actually works.
+</p>
 
----
-
-## Featured Projects
-
-### HireLens
-
-AI powered recruitment platform
-
-* Resume parsing
-* Semantic candidate matching
-* Secure authentication
-* Interview scheduling system
-
-**Stack**
-
-Java • React • SQL • AI
+<br clear="both">
 
 ---
 
-### SafeCompanion
+<!-- TOP PROJECTS SECTION -->
+### 📌 Top Projects (built to avoid manual labor)
 
-Women safety platform for emergency situations
-
-* SOS alert system
-* Live location tracking
-* Automated emergency notifications
-* AI based risk detection
-
-**Stack**
-
-React • Node.js • SQL
-
----
-
-### NearbyNow
-
-Real-time location based discovery application
-
-* Maps integration
-* Live recommendations
-* Smart location search
-* Personalized suggestions
-
-**Stack**
-
-React • TypeScript • Node.js
+<table border="0" width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <ul>
+        <li>
+          <strong><code>HIRELENS</code></strong> — AI-Assisted Interview Management System featuring real-time evaluation pipelines and automated scoring architectures.
+        </li>
+        <br>
+        <li>
+          <strong><code>NEARBYNOW</code></strong> — A highly responsive, location-based search application optimized for real-time spatial queries.
+        </li>
+      </ul>
+    </td>
+    <td width="30%" align="center" valign="middle">
+      <!-- Right side dark accent image (like the fire icon in the reference) -->
+      <img src="https://your-right-side-accent-asset.png" width="100">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Velora
-
-Premium e-commerce platform
-
-* Authentication system
-* Payment flow
-* Product management
-* Modern UI architecture
-
-**Stack**
-
-React • Node.js • SQL
-
----
-
-## Experience
-
-### Full Stack Developer Intern
-
-KalaCraft Studio
-
-```text
-• Developed production-ready web applications
-• Built scalable backend APIs
-• Improved application performance
-• Database optimization and query tuning
-• Worked on frontend + backend integration
-```
-
----
-
-## Achievements
-
-🏆 NEC Finalist - IIT Bombay
-
-🏆 Software Engineer Certificate - HackerRank
-
-🏆 Software Engineer Intern Certificate - HackerRank
-
-🏆 Microsoft Azure AI Language Certification
-
-🏆 Java Certification - SoloLearn
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhaxoor&show_icons=true&theme=tokyonight" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhaxoor&theme=tokyonight" />
-
-</div>
-
----
-
-## Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhaxoor&theme=react-dark" />
-
-</div>
-
----
-
-## Current Mission
-
-```text
-Building production-level applications
-Mastering backend engineering
-Learning system design deeply
-Contributing to open source
-Becoming an elite software engineer
-```
-
----
-
-## Connect
+<!-- CONNECT SECTION -->
+<h3 align="center">Connect</h3>
 
 <p align="center">
-
-<a href="mailto:officialarpan@outlook.com">Email</a> •
-
-<a href="https://github.com/madhaxoor">GitHub</a> •
-
-<a href="https://linkedin.com/in/madhaxoor">LinkedIn</a>
-
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:officialarpan@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-Phone: +91 8009180031
+<blockquote>
+<p> 💡 <i>Code is never finished. It only becomes slightly less terrible over time.</i></p>
+<p> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard. </p>
+</blockquote>
 
 ---
 
-<div align="center">
+<!-- CONTRIBUTION GRAPH -->
+<h3 align="center">Contribution</h3>
 
-### Code is never finished. It only gets better.
-
-</div>
-```
+<p align="center">
+  <!-- Replace with your actual GitHub username to pull your dark mode contribution chart -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark-v2&area=true&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph">
+</p>
