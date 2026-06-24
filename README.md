@@ -1,13 +1,29 @@
-## 👨‍💻 Know About Me
+<div align="center">
+  <img src="banner.png" width="100%" />
+</div>
 
-Hi, I’m **Arpan Verma**, a passionate **Software Engineer and Full Stack Developer** from India, focused on building scalable web applications, intelligent systems, and real-world tech solutions.  
+<h2>👨‍💻 Know About Me</h2>
 
-I work across **Frontend, Backend, and AI-powered development**, with hands-on experience in **Java, React.js, TypeScript, Node.js, SQL, and AWS**. I enjoy creating products that solve practical problems while keeping **performance, security, and user experience** at the center.  
+<p>
+Hi, I'm <b>Arpan Verma</b>, a passionate <b>Software Engineer</b> and <b>Full Stack Developer</b> from India, focused on building scalable web applications, intelligent systems, and solving real-world problems through technology.
+</p>
 
-My journey into tech has been driven by curiosity, continuous learning, and the ambition to become a world-class engineer. I have built projects involving **AI recruitment systems, safety applications, location-based platforms, secure authentication systems, and REST APIs**.  
+<p>
+I work across <b>Frontend, Backend, and AI-powered development</b> with hands-on experience in <b>Java, React.js, TypeScript, Node.js, SQL, AWS, and modern web technologies</b>. I enjoy building products that combine performance, security, scalability, and great user experience.
+</p>
 
-I’m constantly exploring **System Design, Cloud Computing, Artificial Intelligence, Agentic AI, and scalable backend architecture**.  
+<p>
+My journey into tech is driven by curiosity and the mindset of constantly learning and improving. I have developed projects including <b>AI-powered recruitment systems, women safety applications, location-based recommendation platforms, secure authentication systems, and REST API architectures</b>.
+</p>
 
-I believe great software is built with **clean code, strong problem-solving skills, and the mindset to keep learning every single day**.  
+<p>
+I’m deeply interested in <b>Backend Engineering, System Design, Cloud Computing, Artificial Intelligence, Agentic AI, scalable architecture, and product development</b>.
+</p>
 
-🚀 Currently working toward becoming a top-tier **Software Engineer capable of building technology that impacts millions.**
+<p>
+I believe great software comes from <b>clean code, strong problem-solving ability, continuous learning, and building solutions that create real impact</b>.
+</p>
+
+<p>
+🚀 Currently working toward becoming a world-class <b>Software Engineer building technology that impacts millions of people.</b>
+</p>
