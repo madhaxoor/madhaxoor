@@ -1,91 +1,235 @@
-# Arpan Verma  
-**Software Engineer | Backend-Focused Full-Stack Developer**
+````md
+<div align="center">
 
-> _“The sun will rise tomorrow — it always does. So keep building, keep dreaming.”_
+# MADHAXOOR
 
-Software Engineer with a strong foundation in Java, OOP, DBMS, and Data Structures. I build backend systems, design APIs, and develop full-stack applications that solve practical problems. Currently gaining hands-on experience through real-world projects and backend development work.
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;Backend+Focused+Builder;Building+Systems+That+Matter" />
+
+### Software Engineer | Full Stack Developer | Backend Systems Enthusiast
+
+> *"The sun will rise tomorrow. So keep building."*
+
+</div>
 
 ---
+
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 ## About Me
-- B.Tech IT Student (2023–2026)  
-- Backend-focused developer with full-stack experience  
-- Strong in problem-solving, system design fundamentals, and clean architecture  
-- Backend Developer Intern at KalaCraft Studio  
-- Seeking entry-level Software Engineering roles  
+
+```yaml
+Name: Arpan Verma
+Username: madhaxoor
+Location: India
+Role: Software Engineer
+Education: B.Tech Information Technology
+Focus: Backend Engineering + Scalable Systems
+Currently Learning: System Design + Cloud + AI Engineering
+Open To: Software Engineering Opportunities
+````
+
+I build scalable applications focused on performance, backend architecture, API development, and solving real-world engineering problems.
+
+Strong foundation in software engineering principles, clean architecture, and modern full-stack development.
 
 ---
 
-## Tech Stack
+## Tech Arsenal
 
-**Languages**  
-Java • Python • C • JavaScript  
+### Languages
 
-**Backend & Systems**  
-REST APIs • Node.js • JDBC • Authentication & Authorization • MVC • Caching  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,js,python,c,ts" />
+</p>
 
-**Frontend**  
-React.js • HTML • CSS  
+### Frontend
 
-**Database & Cloud**  
-MySQL • RDBMS • SQL • AWS (Basics)  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>
 
-**Core CS**  
-Data Structures • OOP • DBMS • Multithreading • Scalability  
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+</p>
+
+---
+
+## Engineering Focus
+
+```text
+Backend Development
+REST API Architecture
+Authentication Systems
+Database Optimization
+Scalable Application Design
+Object Oriented Programming
+System Design Fundamentals
+Performance Optimization
+Clean Code Architecture
+AI Integrated Applications
+```
+
+---
+
+## Featured Projects
+
+### HireLens
+
+AI powered recruitment platform
+
+* Resume parsing
+* Semantic candidate matching
+* Secure authentication
+* Interview scheduling system
+
+**Stack**
+
+Java • React • SQL • AI
+
+---
+
+### SafeCompanion
+
+Women safety platform for emergency situations
+
+* SOS alert system
+* Live location tracking
+* Automated emergency notifications
+* AI based risk detection
+
+**Stack**
+
+React • Node.js • SQL
+
+---
+
+### NearbyNow
+
+Real-time location based discovery application
+
+* Maps integration
+* Live recommendations
+* Smart location search
+* Personalized suggestions
+
+**Stack**
+
+React • TypeScript • Node.js
+
+---
+
+### Velora
+
+Premium e-commerce platform
+
+* Authentication system
+* Payment flow
+* Product management
+* Modern UI architecture
+
+**Stack**
+
+React • Node.js • SQL
 
 ---
 
 ## Experience
 
-### Backend Developer Intern — KalaCraft Studio  
-*Jan 2026 – Present*  
-- Built and maintained backend APIs using Java and SQL  
-- Optimized database queries to improve performance  
-- Implemented backend logic for content systems  
-- Contributed to scalable and efficient system design  
+### Full Stack Developer Intern
 
-### National Entrepreneurship Challenge — IIT Bombay (Finalist)  
-*Aug 2024 – Jan 2025*  
-- Designed and presented a scalable business model  
-- Conducted market research and user validation  
-- Collaborated with mentors and industry professionals  
+KalaCraft Studio
 
----
-
-## Projects
-
-### HireLens (Java, SQL)  
-- Recruitment platform improving hiring workflow efficiency  
-- Built authentication and interview scheduling system  
-- Structured backend for reliable candidate management  
-
-### Job Finder India (Java, SQL)  
-- Job portal with skill-based matching  
-- Resume parsing and optimized SQL queries  
-
-### SafeCompanion (React, Node.js, SQL)  
-- Women safety app with SOS alerts and live tracking  
-
-### NearbyNow (React, TypeScript, Node.js)  
-- Location-based app with real-time suggestions and maps integration  
+```text
+• Developed production-ready web applications
+• Built scalable backend APIs
+• Improved application performance
+• Database optimization and query tuning
+• Worked on frontend + backend integration
+```
 
 ---
 
-## Certifications
-- Software Engineer — HackerRank  
-- Software Engineer Intern — HackerRank  
-- Microsoft Azure AI Language  
-- Java — SoloLearn  
-- NEC 2024 Finalist — IIT Bombay  
+## Achievements
+
+🏆 NEC Finalist - IIT Bombay
+
+🏆 Software Engineer Certificate - HackerRank
+
+🏆 Software Engineer Intern Certificate - HackerRank
+
+🏆 Microsoft Azure AI Language Certification
+
+🏆 Java Certification - SoloLearn
 
 ---
 
-## Contact
-- Email: officialarpan@outlook.com  
-- Phone: +91 8009180031  
-- GitHub: https://github.com/madhaxoor  
-- LinkedIn: https://linkedin.com/in/madhaxoor  
+## GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=madhaxoor&show_icons=true&theme=tokyonight" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=madhaxoor&theme=tokyonight" />
+
+</div>
 
 ---
 
-> _“Build with intent. Design with purpose.”_
+## Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhaxoor&theme=react-dark" />
+
+</div>
+
+---
+
+## Current Mission
+
+```text
+Building production-level applications
+Mastering backend engineering
+Learning system design deeply
+Contributing to open source
+Becoming an elite software engineer
+```
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="mailto:officialarpan@outlook.com">Email</a> •
+
+<a href="https://github.com/madhaxoor">GitHub</a> •
+
+<a href="https://linkedin.com/in/madhaxoor">LinkedIn</a>
+
+</p>
+
+Phone: +91 8009180031
+
+---
+
+<div align="center">
+
+### Code is never finished. It only gets better.
+
+</div>
+```
