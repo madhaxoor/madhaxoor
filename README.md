@@ -1,157 +1,162 @@
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/madhaxoor/madhaxoor/main/assets/banner.png" width="78%" />
-
-<br><br>
-
-# ARPAN_!!
-
-### `BACKEND • FULLSTACK • BUILDER`
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Builder;Java+%7C+Python+%7C+SQL;Building+Something+Everyday" />
-</p>
-
-> Building code today so future me complains less.
+<img src="https://raw.githubusercontent.com/madhaxoor/madhaxoor/main/assets/banner.png" width="82%">
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=madhaxoor&label=PROFILE+VIEWS&style=for-the-badge" />
+# ARPAN_!!
+
+### Developer • Builder • Learner
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=madhaxoor&label=Visitors&style=flat-square&color=black"/>
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# // IDENTITY
+# Know About Me
 
 ```txt
 Name       : Arpan Verma
 Role       : Software Developer
 Status     : B.Tech Graduate
-Focus      : Backend + Full Stack + AI
 Location   : India
+Focus       : Backend + Full Stack + AI
 ```
 
-> Branch out. Build greatness.
+Hey there! I'm **Arpan**.
 
----
+I spend most of my time building software, solving problems, learning backend systems and understanding how scalable applications work.
 
-# // CURRENT EXECUTION
+By day, I write code.  
+By night, I debug code I wrote during day.
 
-- Solving DSA daily  
-- Building real-world backend projects  
-- Learning system design  
-- Exploring AI + LLM applications  
-- Preparing for product-based companies  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
----
-
-# // SYSTEM INFO
+# Current Mode
 
 ```cpp
 while(alive)
 {
-   eat();
-   code();
-   debug();
-   learn();
-   repeat();
+    learn();
+    build();
+    fail();
+    improve();
+    repeat();
 }
 ```
 
-Hey, I’m **Arpan**.
+Current focus:
 
-I build software that solves actual problems instead of tutorial-only projects.
+• Data Structures & Algorithms  
+• Backend Development  
+• REST APIs  
+• System Design  
+• AI + LLM Applications  
+• Product Based Company Preparation  
 
-Currently focused on backend engineering, scalable APIs, full stack applications, and learning how production systems work.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I spend most of my time building projects, solving DSA, understanding architecture, and getting better every day.
-
----
-
-# // TECH STACK
+# Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,spring,mysql,mongodb,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,spring,mysql,mongodb,docker,git,github,linux"/>
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# // BUILT UNDER PRESSURE
+# Top Projects
 
-## E-Commerce Backend Engine
-
-```txt
-Scalable backend APIs for product management,
-authentication, cart system, and order management.
-```
-
-`Java` `Spring Boot` `JWT` `MySQL`
-
----
-
-## AI Resume Analyzer
+### ◉ AI Resume Analyzer
 
 ```txt
-Analyzes resumes,
+Analyzes resume quality,
 extracts skills,
 gives improvement suggestions.
 ```
 
 `Python` `FastAPI` `LLM API`
 
----
+<br>
 
-## Real Time Chat Application
+### ◉ E-Commerce Backend
 
 ```txt
-Built messaging system
-using websocket architecture.
+Scalable APIs for products,
+authentication and order management.
+```
+
+`Java` `Spring Boot` `MySQL`
+
+<br>
+
+### ◉ Real Time Chat Application
+
+```txt
+Messaging system built using websocket architecture.
 ```
 
 `Node.js` `Socket.io` `MongoDB`
 
----
+<br>
 
-## URL Shortener API
-
-```txt
-Converts long URLs into short identifiers
-with analytics support.
-```
-
-`Java` `Spring Boot` `Redis`
-
----
-
-## Expense Tracker
+### ◉ Expense Tracker
 
 ```txt
-Tracks income, expenses,
-monthly spending analytics.
+Tracks income, spending and monthly analytics.
 ```
 
 `React` `Node.js` `MongoDB`
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# // GITHUB ANALYTICS
+# Connect
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhaxoor&show_icons=true&theme=github_dark&hide_border=true"/>
+<a href="https://github.com/madhaxoor">
+<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github"/>
+</a>
 
-<br><br>
+<a href="https://linkedin.com/in/madhaxoor">
+<img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaxoor&layout=compact&theme=github_dark&hide_border=true"/>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://your-resume-link.com">
+<img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge"/>
+</a>
 
 </div>
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# // CONTRIBUTION GRAPH
+# Philosophy
+
+> Code is never finished.  
+> It only becomes slightly less terrible over time.
+
+<br>
+
+> Every commit I make  
+> is essentially an apology to my future self.
+
+<br>
+
+> Build first.  
+> Learn while building.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# Contribution
 
 <div align="center">
 
@@ -159,66 +164,10 @@ monthly spending analytics.
 
 </div>
 
----
-
-# // CURRENT LEARNING PATH
-
-```txt
-[✓] Data Structures & Algorithms
-[✓] Backend Development
-[✓] Database Design
-[✓] REST API Development
-[ ] System Design
-[ ] Docker & Kubernetes
-[ ] Microservices
-[ ] AWS Cloud
-[ ] Low Level Design
-```
-
----
-
-# // CONNECT
-
-<div align="center">
-
-<a href="https://github.com/madhaxoor">
-<img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://linkedin.com/in/madhaxoor">
-<img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://your-resume-link.com">
-<img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge" />
-</a>
-
-</div>
-
----
-
-# // PHILOSOPHY
-
-> Code is never finished.  
-> It only becomes slightly less terrible over time.
-
-> Every bug teaches something.  
-> Usually humility.
-
-> Build projects.  
-> Degrees open doors. Skills keep them open.
-
----
+<br>
 
 <div align="center">
 
 ### Building quietly until success gets loud.
 
-⚡ Always shipping. Always learning.
-
 </div>
-````
