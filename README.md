@@ -1,11 +1,16 @@
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/madhaxoor/madhaxoor/main/assets/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/madhaxoor/madhaxoor/main/assets/banner.png" width="78%" />
+
+<br><br>
 
 # ARPAN_!!
 
 ### `BACKEND • FULLSTACK • BUILDER`
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Builder;Java+%7C+Python+%7C+SQL;Building+Something+Everyday" />
+</p>
 
 > Building code today so future me complains less.
 
@@ -20,9 +25,9 @@
 # // IDENTITY
 
 ```txt
-Name      : Arpan Verma
-Role      : Software Developer
-Status    : B.Tech Graduate
+Name       : Arpan Verma
+Role       : Software Developer
+Status     : B.Tech Graduate
 Focus      : Backend + Full Stack + AI
 Location   : India
 ```
@@ -201,12 +206,8 @@ monthly spending analytics.
 > Code is never finished.  
 > It only becomes slightly less terrible over time.
 
-<br>
-
 > Every bug teaches something.  
 > Usually humility.
-
-<br>
 
 > Build projects.  
 > Degrees open doors. Skills keep them open.
@@ -216,6 +217,8 @@ monthly spending analytics.
 <div align="center">
 
 ### Building quietly until success gets loud.
+
+⚡ Always shipping. Always learning.
 
 </div>
 ````
