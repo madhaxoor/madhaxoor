@@ -1,64 +1,47 @@
+
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/madhaxoor/madhaxoor/main/assets/banner.png" width="100%" />
 
 # ARPAN_!!
 
-### `DEVELOPER • CODER • LEARNER`
+### `BACKEND • FULLSTACK • BUILDER`
 
 > Building code today so future me complains less.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&style=for-the-badge&color=000000" />
+<img src="https://komarev.com/ghpvc/?username=madhaxoor&label=PROFILE+VIEWS&style=for-the-badge" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-
-<td width="35%">
-
-## // Identity
+# // IDENTITY
 
 ```txt
 Name      : Arpan Verma
 Role      : Software Developer
 Status    : B.Tech Graduate
-Focus     : Backend + Full Stack + AI
-Location  : India
+Focus      : Backend + Full Stack + AI
+Location   : India
 ```
-
-<br>
 
 > Branch out. Build greatness.
 
-<br>
+---
 
-## // Current Mission
+# // CURRENT EXECUTION
 
-- Solving DSA daily
-- Building production-level backend projects
-- Learning system design
-- Exploring AI agents + LLM apps
-- Preparing for top product companies
-
-</td>
-
-<td width="65%">
-
-<img src="./assets/profile.gif" width="100%" />
-
-</td>
-
-</tr>
-</table>
+- Solving DSA daily  
+- Building real-world backend projects  
+- Learning system design  
+- Exploring AI + LLM applications  
+- Preparing for product-based companies  
 
 ---
 
-# // Know About Me
+# // SYSTEM INFO
 
 ```cpp
 while(alive)
@@ -73,183 +56,147 @@ while(alive)
 
 Hey, I’m **Arpan**.
 
-I’m a developer obsessed with building things that solve actual problems.
+I build software that solves actual problems instead of tutorial-only projects.
 
-Currently focused on writing scalable backend systems, full stack applications, and learning how modern software architecture works.
+Currently focused on backend engineering, scalable APIs, full stack applications, and learning how production systems work.
 
-I like understanding how things work under the hood instead of just making them work.
-
-Right now I spend most of my time building projects, solving DSA, learning cloud systems, and preparing for software engineering roles.
+I spend most of my time building projects, solving DSA, understanding architecture, and getting better every day.
 
 ---
 
-# // Tech Arsenal
+# // TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,spring,mysql,mongodb,docker,git,github,linux" />
 
 </div>
 
 ---
 
-# // Top Projects (built with pain and caffeine)
+# // BUILT UNDER PRESSURE
 
-## 1. E-Commerce Backend Engine
+## E-Commerce Backend Engine
 
 ```txt
-Built scalable backend APIs for product management,
-authentication, cart system, order management
-using Spring Boot + MySQL.
+Scalable backend APIs for product management,
+authentication, cart system, and order management.
 ```
-
-Tech Stack:
 
 `Java` `Spring Boot` `JWT` `MySQL`
 
 ---
 
-## 2. AI Resume Analyzer
+## AI Resume Analyzer
 
 ```txt
-Analyzes resume quality,
+Analyzes resumes,
 extracts skills,
 gives improvement suggestions.
 ```
 
-Tech Stack:
-
-`Python` `LLM API` `FastAPI`
+`Python` `FastAPI` `LLM API`
 
 ---
 
-## 3. Real Time Chat Application
+## Real Time Chat Application
 
 ```txt
-Built real time messaging system
+Built messaging system
 using websocket architecture.
 ```
-
-Tech Stack:
 
 `Node.js` `Socket.io` `MongoDB`
 
 ---
 
-## 4. URL Shortener API
+## URL Shortener API
 
 ```txt
 Converts long URLs into short identifiers
 with analytics support.
 ```
 
-Tech Stack:
-
 `Java` `Spring Boot` `Redis`
 
 ---
 
-## 5. Expense Tracker
+## Expense Tracker
 
 ```txt
 Tracks income, expenses,
 monthly spending analytics.
 ```
 
-Tech Stack:
-
 `React` `Node.js` `MongoDB`
 
 ---
 
-# // GitHub Analytics
+# // GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhaxoor&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaxoor&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# // Contribution Activity
+# // CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhaxoor&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# // Current Learning Path
+# // CURRENT LEARNING PATH
 
 ```txt
 [✓] Data Structures & Algorithms
-
 [✓] Backend Development
-
 [✓] Database Design
-
 [✓] REST API Development
-
 [ ] System Design
-
 [ ] Docker & Kubernetes
-
-[ ] Microservices Architecture
-
+[ ] Microservices
 [ ] AWS Cloud
-
 [ ] Low Level Design
 ```
 
 ---
 
-# // Connect
+# // CONNECT
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/madhaxoor">
 <img src="https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/madhaxoor">
 <img src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-black?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge&logo=readthedocs" />
+<a href="https://your-resume-link.com">
+<img src="https://img.shields.io/badge/RESUME-black?style=for-the-badge" />
 </a>
 
 </div>
 
 ---
 
-# // Philosophy
+# // PHILOSOPHY
 
 > Code is never finished.  
 > It only becomes slightly less terrible over time.
@@ -271,3 +218,4 @@ Tech Stack:
 ### Building quietly until success gets loud.
 
 </div>
+````
