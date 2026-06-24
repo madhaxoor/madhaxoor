@@ -1,41 +1,24 @@
 <div align="center">
-  <img src="./assets/banner.png" alt="Arpan Banner" width="100%" />
+  <img src="./assets/banner.png" alt="Arpan Verma" width="100%" />
 </div>
 
----
+<br/>
 
 <div align="center">
 
-## ✦ Know About Me ✦
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI+Builder;Code+Weapon;AVAILABLE+FOR+HIRE.)
 
 </div>
 
-### Hey there! I'm Arpan 👋
-
-I'm a **Developer · Coder · Learner** who builds things that (sometimes) work on the first try.
-By day, I pretend to understand clean code. By night, I write scripts to automate the things I was supposed to do manually.
-When I'm not debugging, I'm probably making the same mistake in a different language.
-
-> *"Code is never finished. It only becomes slightly less broken over time."*
-
----
+<br/>
 
 <div align="center">
 
-## ✦ Tech Stack ✦
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  ARPAN VERMA  //  madhaxoor  //  Full-Stack · AI · Builder
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 </div>
 
@@ -43,45 +26,40 @@ When I'm not debugging, I'm probably making the same mistake in a different lang
 
 <div align="center">
 
-## ✦ Top Projects *(built to avoid manual labor)* ✦
+### ░▒▓ WHO AM I ▓▒░
 
 </div>
 
-| Project | What it does |
-|--------|--------------|
-| 🔥 **[Project One](https://github.com/Arpan)** | Because doing it manually is for people with free time. |
-| ⚡ **[Project Two](https://github.com/Arpan)** | Automates the thing I kept forgetting to do. |
-| 🧠 **[Project Three](https://github.com/Arpan)** | AI-powered. Sounds smarter than it is. |
+I build web weapons — full-stack, AI-powered, production-grade.
+By day, React · Java · SQL. By night, wiring AI agents to do the boring stuff for me.
+Interned at **KalaCraft Studio**. Competed at **IIT Bombay NEC**. Haven't broken prod yet.
 
-> 💡 *Replace the project names, links, and descriptions above with your actual projects!*
+> *"Every commit is a desperate apology to my future self."*
 
 ---
 
 <div align="center">
 
-## ✦ GitHub Stats ✦
+### ░▒▓ ARSENAL ▓▒░
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpan&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpan&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" height="160" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpan&bg_color=0d0d0d&color=ffffff&line=ffffff&point=888888&hide_border=true" width="100%" />
-</div>
-
----
-
-<div align="center">
-
-## ✦ Connect ✦
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arpan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Arpan)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Resume](https://img.shields.io/badge/Resume-0d0d0d?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-resume-link.com)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=CC0000)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=CC0000)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=CC0000)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=CC0000)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=CC0000)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=for-the-badge&logo=openjdk&logoColor=CC0000)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=CC0000)
+![MySQL](https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=CC0000)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=CC0000)
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=for-the-badge&logo=amazonaws&logoColor=CC0000)
+![Azure AI](https://img.shields.io/badge/Azure_AI-0a0a0a?style=for-the-badge&logo=microsoftazure&logoColor=CC0000)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=CC0000)
+![Machine Learning](https://img.shields.io/badge/ML-0a0a0a?style=for-the-badge&logo=tensorflow&logoColor=CC0000)
+![NLP](https://img.shields.io/badge/NLP-0a0a0a?style=for-the-badge&logo=openai&logoColor=CC0000)
 
 </div>
 
@@ -89,7 +67,90 @@ When I'm not debugging, I'm probably making the same mistake in a different lang
 
 <div align="center">
 
-*Every commit I make is essentially just a small, desperate apology to my future self.*
-*Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.*
+### ░▒▓ DEPLOYED WEAPONS ▓▒░
+
+</div>
+
+<div align="center">
+
+| ⚔️ | Project | What it destroys |
+|:--:|---------|-----------------|
+| 🧠 | **[HireLens](https://github.com/madhaxoor)** | AI recruitment — 40% less manual screening. 30% sharper shortlisting. |
+| 🛡️ | **[SafeCompanion](https://github.com/madhaxoor)** | SOS + live tracking. 35% faster emergency response. |
+| 📍 | **[NearbyNow](https://github.com/madhaxoor)** | Location AI — 95% accuracy. 30% more engagement. |
+
+</div>
+
+---
+
+<div align="center">
+
+### ░▒▓ MISSIONS ▓▒░
+
+</div>
+
+```
+■ Jan 2026 — Present ─────────────────────────────────────────────
+  Full-Stack Developer Intern  @  KalaCraft Studio
+  → Cut API latency by 30%
+  → Accelerated integration speed by 25%
+
+■ Aug 2024 — Jan 2025 ────────────────────────────────────────────
+  NEC Finalist  @  IIT Bombay
+  → Cleared all national screening rounds
+  → Networked with top-tier founders & mentors
+```
+
+---
+
+<div align="center">
+
+### ░▒▓ STATS ▓▒░
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhaxoor&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=CC0000&text_color=ffffff&icon_color=CC0000" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaxoor&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=CC0000&text_color=ffffff" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhaxoor&bg_color=0a0a0a&color=CC0000&line=CC0000&point=ffffff&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+### ░▒▓ BADGES ▓▒░
+
+```
+  [★] Software Engineer        —  HackerRank   ·  Aug 2025
+  [★] Software Engineer Intern —  HackerRank   ·  Aug 2025
+  [★] Azure AI Language        —  Microsoft    ·  Jul 2025
+  [★] NEC '24 Finalist         —  IIT Bombay   ·  Mar 2025
+  [★] Java Certified           —  SoloLearn    ·  Jul 2024
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### ░▒▓ LOCATE ME ▓▒░
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=CC0000)](https://linkedin.com/in/madhaxoor)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=CC0000)](mailto:officialarpan@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=firefox&logoColor=CC0000)](https://madhaxoor.netlify.app)
+[![Resume](https://img.shields.io/badge/Resume-0a0a0a?style=for-the-badge&logo=readthedocs&logoColor=CC0000)](https://madhaxoor.netlify.app/Arpan_Verma0.pdf)
+
+<br/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  AVAILABLE FOR HIRE. DON'T MISS YOUR SHOT.
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 </div>
