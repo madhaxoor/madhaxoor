@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" height="80%" />
+  <img src="asstes/banner.png" width="100%" height="80%" />
 </div>
 
 <h2>👨‍💻 Know About Me</h2>
